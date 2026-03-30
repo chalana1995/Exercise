@@ -1,0 +1,8 @@
+C:\rolebase\Exercise\src\UrlShortener.Api\obj\Debug\net8.0\UrlShortener.Api.csproj.AssemblyReference.cache
+C:\rolebase\Exercise\src\UrlShortener.Api\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\rolebase\Exercise\src\UrlShortener.Api\obj\Debug\net8.0\UrlShortener.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\rolebase\Exercise\src\UrlShortener.Api\obj\Debug\net8.0\UrlShortener.Api.AssemblyInfoInputs.cache
+C:\rolebase\Exercise\src\UrlShortener.Api\obj\Debug\net8.0\UrlShortener.Api.AssemblyInfo.cs
+C:\rolebase\Exercise\src\UrlShortener.Api\obj\Debug\net8.0\UrlShortener.Api.csproj.CoreCompileInputs.cache
+C:\rolebase\Exercise\src\UrlShortener.Api\obj\Debug\net8.0\UrlShortener.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\rolebase\Exercise\src\UrlShortener.Api\obj\Debug\net8.0\UrlShortener.Api.sourcelink.json
